@@ -1,0 +1,5 @@
+# .gitignore
+ml_env/
+dataset/
+*.keras
+__pycache__/
